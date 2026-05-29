@@ -30,15 +30,9 @@ Understanding real-world datasets
 Data loading and preprocessing using Pandas
 Dataset exploration techniques
 Working with tabular data
-Building a strong foundation for Data Analytics and Data Science projects
-# Repository Structure.............
-Exploratory-Data-Analysis-EDA/
-│
-├── zomato.csv
-├── zomato.py
-├── README.md
-└── requirements.txt (optional)
----
+Building a strong foundation for Data Analytics and Data Science project
+
+
 ## Project 2: Titanic Dataset EDA
 
 ### Project Overview
@@ -87,21 +81,5 @@ The Titanic dataset contains passenger information such as age, gender, passenge
 * Working with Real-World Datasets
 * Data Interpretation and Insight Generation
 
-### Repository Structure
 
-Exploratory-Data-Analysis-EDA/
-
-│
-
-├── zomato.csv
-
-├── zomato.py
-
-├── Titanic-titanic.csv
-
-├── Titanic.py
-
-├── README.md
-
-└── requirements.txt (optional)
 
